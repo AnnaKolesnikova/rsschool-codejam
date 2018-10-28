@@ -12,4 +12,4 @@ function sumOfOthers(array) {
   return result;
  }
 
- //sumOfOthers([2, 3, 4, 1]);
+ sumOfOthers([2, 3, 4, 1]);
