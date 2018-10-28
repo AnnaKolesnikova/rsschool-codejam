@@ -13,4 +13,3 @@ function make(...args) {
 }
 
 const res = make(15)(34, 21, 666)(41, function sum(a, b) {return a + b});
-console.log(res)
